@@ -1,0 +1,12 @@
+{
+    "Data Collection": {
+        "status": "Completed",
+        "notes": "Collected historical prices from Alpha Vantage.",
+        "timestamp": "2025-01-23T12:57:30.535206"
+    },
+    "Data Preprocessing": {
+        "status": "Completed",
+        "notes": "Successfully cleaned the dataset and handled missing values.",
+        "timestamp": "2025-01-23T13:00:28.464622"
+    }
+}
